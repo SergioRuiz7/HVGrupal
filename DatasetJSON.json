@@ -1,132 +1,132 @@
 [
   {
     "date": "01-01-2015",
-    "Sin TTP": 14.91,
-    "Con TTP": 12.72
+    "SinTTP": 14.91,
+    "ConTTP": 12.72
   },
   {
     "date": "30-06-2015",
-    "Sin TTP": 23.473,
-    "Con TTP": 22.608
+    "SinTTP": 23.473,
+    "ConTTP": 22.608
   },
   {
     "date": "01-07-2015",
-    "Sin TTP": 23.575,
-    "Con TTP": 22.718
+    "SinTTP": 23.575,
+    "ConTTP": 22.718
   },
   {
     "date": "31-12-2015",
-    "Sin TTP": 30.253,
-    "Con TTP": 30.582
+    "SinTTP": 30.253,
+    "ConTTP": 30.582
   },
   {
     "date": "01-01-2016",
-    "Sin TTP": 30.274,
-    "Con TTP": 30.612
+    "SinTTP": 30.274,
+    "ConTTP": 30.612
   },
   {
     "date": "30-06-2016",
-    "Sin TTP": 33.392,
-    "Con TTP": 34.501
+    "SinTTP": 33.392,
+    "ConTTP": 34.501
   },
   {
     "date": "01-07-2016",
-    "Sin TTP": 33.408,
-    "Con TTP": 34.525
+    "SinTTP": 33.408,
+    "ConTTP": 34.525
   },
   {
     "date": "31-12-2016",
-    "Sin TTP": 30.492,
-    "Con TTP": 33.05
+    "SinTTP": 30.492,
+    "ConTTP": 33.05
   },
   {
     "date": "01-01-2017",
-    "Sin TTP": 30.49,
-    "Con TTP": 33.048
+    "SinTTP": 30.49,
+    "ConTTP": 33.048
   },
   {
     "date": "30-06-2017",
-    "Sin TTP": 30.795,
-    "Con TTP": 34.005
+    "SinTTP": 30.795,
+    "ConTTP": 34.005
   },
   {
     "date": "01-07-2017",
-    "Sin TTP": 30.828,
-    "Con TTP": 34.045
+    "SinTTP": 30.828,
+    "ConTTP": 34.045
   },
   {
     "date": "31-12-2017",
-    "Sin TTP": 29.283,
-    "Con TTP": 35.559
+    "SinTTP": 29.283,
+    "ConTTP": 35.559
   },
   {
     "date": "01-01-2018",
-    "Sin TTP": 29.287,
-    "Con TTP": 35.583
+    "SinTTP": 29.287,
+    "ConTTP": 35.583
   },
   {
     "date": "30-06-2018",
-    "Sin TTP": 28.091,
-    "Con TTP": 37.667
+    "SinTTP": 28.091,
+    "ConTTP": 37.667
   },
   {
     "date": "01-07-2018",
-    "Sin TTP": 28.11,
-    "Con TTP": 37.71
+    "SinTTP": 28.11,
+    "ConTTP": 37.71
   },
   {
     "date": "31-12-2018",
-    "Sin TTP": 25.845,
-    "Con TTP": 39.877
+    "SinTTP": 25.845,
+    "ConTTP": 39.877
   },
   {
     "date": "01-01-2019",
-    "Sin TTP": 25.854,
-    "Con TTP": 39.91
+    "SinTTP": 25.854,
+    "ConTTP": 39.91
   },
   {
     "date": "30-06-2019",
-    "Sin TTP": 25.107,
-    "Con TTP": 41.665
+    "SinTTP": 25.107,
+    "ConTTP": 41.665
   },
   {
     "date": "01-07-2019",
-    "Sin TTP": 25.098,
-    "Con TTP": 41.648
+    "SinTTP": 25.098,
+    "ConTTP": 41.648
   },
   {
     "date": "31-12-2019",
-    "Sin TTP": 23.016,
-    "Con TTP": 39.169
+    "SinTTP": 23.016,
+    "ConTTP": 39.169
   },
   {
     "date": "01-01-2020",
-    "Sin TTP": 23.014,
-    "Con TTP": 39.193
+    "SinTTP": 23.014,
+    "ConTTP": 39.193
   },
   {
     "date": "30-06-2020",
-    "Sin TTP": 25.939,
-    "Con TTP": 50.729
+    "SinTTP": 25.939,
+    "ConTTP": 50.729
   },
   {
     "date": "01-07-2020",
-    "Sin TTP": 25.929,
-    "Con TTP": 50.734
+    "SinTTP": 25.929,
+    "ConTTP": 50.734
   },
   {
     "date": "31-12-2020",
-    "Sin TTP": 26.995,
-    "Con TTP": 50.468
+    "SinTTP": 26.995,
+    "ConTTP": 50.468
   },
   {
     "date": "01-01-2021",
-    "Sin TTP": 26.999,
-    "Con TTP": 50.464
+    "SinTTP": 26.999,
+    "ConTTP": 50.464
   },
   {
     "date": "31-03-2021",
-    "Sin TTP": 27.912,
-    "Con TTP": 50.731
+    "SinTTP": 27.912,
+    "ConTTP": 50.731
   }
 ]
